@@ -1,0 +1,254 @@
+.App {
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  background-color: black;
+}
+
+.nav {
+  background-color: black;
+  align-items: center;
+  justify-content: space-evenly;
+  border-width:3px;
+  border-style:solid;
+  border-color:orange;
+}
+
+.navhtag {
+  color: orange;
+}
+
+.nav1 {
+  color: orange;
+  border-width:3px;
+  border-style:solid;
+  border-color:orange;
+}
+
+.nav2 {
+  color: orange;
+  border-width:3px;
+  border-style:solid;
+  border-color:orange;
+}
+
+a {
+  color: orange;
+  text-decoration: none;
+  padding: none;
+  background-color: black;
+}
+
+.nav3 {
+  color: orange;
+  border-width:3px;
+  border-style:solid;
+  border-color:orange;
+}
+
+.register-form {
+  color: orange;
+}
+
+.register-header {
+  color: orange;
+  border-width:3px;
+  border-style:solid;
+  border-color:orange;
+}
+
+.register-container {
+  background-color: black;
+  height: 1080px;
+  width: 1920px;
+  border-width:3px;
+  border-style:solid;
+  border-color:orange;
+  align-items: center;
+  display: block;
+}
+
+.register-form {
+  margin-top: 100px;
+  background-color: black;
+  width: 50%;
+  margin-left: 360px;
+}
+
+.register-bottom {
+  margin-top: 100px;
+  color: orange;
+}
+
+.register-button {
+  color: orange;
+  border-width: 1px;
+  border-style:solid;
+  border-color:orange;
+  
+}
+
+input {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.login-container {
+  background-color: black;
+  height: 1080px;
+  width: 1920px;
+  border-width:3px;
+  border-style:solid;
+  border-color: orange;
+  color: orange;
+  display: block;
+}
+
+.login-header {
+  color: orange;
+  border-width:3px;
+  border-style:solid;
+  border-color:orange;
+}
+
+.login-form {
+  margin-top: 100px;
+  background-color: black;
+  width: 50%;
+  margin-left: 475px;
+}
+
+.login-button {
+  color: orange;
+  border-width: 1px;
+  border-style:solid;
+  border-color:orange;
+  
+}
+
+.login-bottom {
+  margin-top: 100px;
+  color: orange;
+}
+
+.details-container {
+  background-color: black;
+  height: 1080px;
+  width: 1920px;
+  border-width:3px;
+  border-style:solid;
+  border-color: orange;
+  color: orange;
+  display: block;
+}
+
+.delete-button {
+  color: red;
+  border-width: 1px;
+  border-style:solid;
+  border-color:red;
+  margin-bottom: 20px;
+}
+
+.win {
+  color:green;
+}
+
+.loss {
+  color: red;
+}
+
+.details-body {
+  margin-top: 200px;
+  border-width: 1px;
+  border-style:solid;
+  border-color:orange;
+  width: 40%;
+  margin-left: 560px;
+}
+
+.create-container {
+  background-color: black;
+  height: 1080px;
+  width: 1920px;
+  border-width:3px;
+  border-style:solid;
+  border-color: orange;
+  color: orange;
+  display: block;
+}
+
+.create-body {
+  margin-top: 100px;
+  background-color: black;
+  width: 50%;
+  margin-left: 475px;
+}
+
+.create-button {
+  color: orange;
+  border-width: 1px;
+  border-style:solid;
+  border-color:orange;
+}
+
+.edit-container {
+  background-color: black;
+  height: 1080px;
+  width: 1920px;
+  border-width:3px;
+  border-style:solid;
+  border-color: orange;
+  color: orange;
+  display: block;
+}
+
+.edit-body {
+  margin-top: 100px;
+  background-color: black;
+  width: 50%;
+  margin-left: 475px;
+}
+
+.edit-button {
+  color: orange;
+  border-width: 1px;
+  border-style:solid;
+  border-color:orange;
+}
+
+.display-container {
+  color: orange;
+  border-width:3px;
+  border-style:solid;
+  background-color:black;
+}
+
+.display-body {
+  margin-top: 20px;
+  border-width: 1px;
+  border-style:solid;
+  border-color:orange;
+  width: 40%;
+  margin-left: 560px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.eachbox {
+  color: orange;
+  border-width:3px;
+  border-style:solid;
+  margin-top: 10px;
+}
+
