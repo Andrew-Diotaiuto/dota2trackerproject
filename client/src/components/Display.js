@@ -13,7 +13,7 @@ const Display = (props) => {
                 setAllTrackers(res.data)
             })
             .catch((err) => {
-                console.log(err);
+                console.log(err, "trackers error");
             })
     }, [])
     return (
